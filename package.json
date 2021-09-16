@@ -1,0 +1,19 @@
+{
+  "name": "nodelesson",
+  "version": "1.0.0",
+  "description": "yroki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzzzak/nodacourse.git"
+  },
+  "author": "ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danzzzak/nodacourse/issues"
+  },
+  "homepage": "https://github.com/danzzzak/nodacourse#readme"
+}
