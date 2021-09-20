@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danzzzak/nodacourse/issues"
   },
-  "homepage": "https://github.com/danzzzak/nodacourse#readme"
+  "homepage": "https://github.com/danzzzak/nodacourse#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
